@@ -36,17 +36,4 @@ Proje, kullanıcı tarafı (UI) ve yönetim tarafı (Admin) olmak üzere 2 ana y
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
 
-Projeyi kendi yerel ortamınızda çalıştırabilmek için aşağıdaki adımları izleyebilirsiniz:
-
-### Ön Gereksinimler
-* [Visual Studio 2022](https://visualstudio.microsoft.com/) (ASP.NET ve web geliştirme iş yükü yüklü olmalı)
-* [.NET SDK](https://dotnet.microsoft.com/download)
-* [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) & SSMS
-
-### Adım Adım Kurulum
-
-1. **Repoyu Bilgisayarınıza Klonlayın:**
-   ```bash
-   git clone [https://github.com/dcanylmz/Travel_Trip_Project.git](https://github.com/dcanylmz/Travel_Trip_Project.git)
